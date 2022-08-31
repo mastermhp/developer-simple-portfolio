@@ -5,6 +5,7 @@ body{
 }
 section{
     display: flex;
+    margin-bottom: 100px;
 }
 .top-banner{
     background-image: url(images/top-banner.png);
