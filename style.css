@@ -32,3 +32,8 @@ h1{
     color: white;
     font-weight: 700px;
 }
+.dream-big{
+    background-image: url(images/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
+}
